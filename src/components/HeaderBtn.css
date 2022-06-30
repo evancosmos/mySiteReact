@@ -7,3 +7,7 @@
     color: white;
     margin-right: 5px;
 }
+
+.ribbonBtn:hover {
+    background-color: black;
+}
