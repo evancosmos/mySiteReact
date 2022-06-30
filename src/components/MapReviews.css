@@ -1,8 +1,13 @@
 .reviewBox {
+    display: block;
     margin: 100px;
+    float: left;
 }
 
 .textReview {
-    margin: 0;
+    text-align: left;
+    position: relative;
+    background-color: wheat;
     float: left;
+    list-style-type: square;
 }
